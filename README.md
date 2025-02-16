@@ -1,4 +1,4 @@
-# [EUA_UI](https://github.com/Somnia1337/EUA_UI)
+# [EUA-Flutter](https://github.com/Somnia1337/EUA-Flutter)
 
 [原 CLI 版](https://github.com/Somnia1337/EchoUnityArchivist)
 
@@ -6,7 +6,7 @@
 
 “Echo Unity Archivist”(谐声收藏家) 是 “email user agent” 的一个更花哨的名字，它们的首字母相同。
 
-从 [这里](https://github.com/Somnia1337/EUA_UI/releases) 下载最新的 release (仅 Windows 桌面应用)。
+从 [这里](https://github.com/Somnia1337/EUA-Flutter/releases) 下载最新的 release (仅 Windows 桌面应用)。
 
 ## 课程项目要求
 
@@ -17,17 +17,17 @@
 ## 截图
 
 <div align=center>
-  <img src="https://github.com/Somnia1337/EUA_UI/blob/main/eua_ui_1.png?raw=true">
+  <img src="https://github.com/Somnia1337/EUA-Flutter/blob/main/eua_ui_1.png?raw=true">
 </div>
 
 <div align=center>
-  <img src="https://github.com/Somnia1337/EUA_UI/blob/main/eua_ui_2.png?raw=true">
+  <img src="https://github.com/Somnia1337/EUA-Flutter/blob/main/eua_ui_2.png?raw=true">
 </div>
 
 <div align=center>
-  <img src="https://github.com/Somnia1337/EUA_UI/blob/main/eua_ui_3.png?raw=true">
+  <img src="https://github.com/Somnia1337/EUA-Flutter/blob/main/eua_ui_3.png?raw=true">
 </div>
 
 <div align=center>
-  <img src="https://github.com/Somnia1337/EUA_UI/blob/main/eua_ui_4-reshot_2.png?raw=true">
+  <img src="https://github.com/Somnia1337/EUA-Flutter/blob/main/eua_ui_4-reshot_2.png?raw=true">
 </div>
